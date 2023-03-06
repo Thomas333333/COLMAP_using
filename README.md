@@ -10,20 +10,20 @@ COLMAP的使用——在校园内拍摄图像进行三维重建
 可能原因：
 + 在拍照时用一段被树枝遮挡住了，导致在做特征匹配时无法对应并续接，于是出现中断。
 
-![原图](WHU building/images/DSC_7610.JPG)
-![image1](WHU building/try1.png)
+![原图](WHUbuilding/images/DSC_7610.JPG)
+![image1](WHUbuilding/try1.png)
 
 1. WHUbuilding2
 image文件夹中包含万林博物馆的147张照片。最后应该算是建模出了部分底部，由于缺少空中拍摄机器无法获得更多顶层细节内容。
 + 博物馆附近没有合适的拍摄角度，距离建筑太近了。导致某些时候需要在一个位置多拍几张用来补充细节
 + 下图可能看不清楚，我还没琢磨明白怎么在COLMAPS取消红色相机部分的显示。
-![原图](WHU building2/image/DSC_7659.JPG)
-![image2](WHU building2/try2.png)
+![原图](WHUbuilding2/image/DSC_7659.JPG)
+![image2](WHUbuilding2/try2.png)
 
 3&4. WHUthing1&2
 由于担心建筑建模不成功，于是拍了几张小物体用来建模。两个物体都只拍摄了17张。由于拍摄数量较少，建模效果明显较差。
-![](WHU thing1/image/DSC_7781.JPG)
-![](WHU thing1/try3.png)
+![](WHUthing1/image/DSC_7781.JPG)
+![](WHUthing1/try3.png)
 
 ### 总结
 + COLMAP建模需要较多图片提供细节用来匹配和寻找特征点，才能有较好的效果。
