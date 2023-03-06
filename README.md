@@ -1,5 +1,7 @@
 # COLMAP_using
 COLMAP的使用——在校园内拍摄图像进行三维重建
+
+
 COLMAP地址：https://github.com/colmap/colmap/releases/download/3.8/COLMAP-3.8-windows-no-cuda.zip
 
 ## 使用COLMAP在校园内拍摄图像进行三维重建
@@ -30,7 +32,7 @@ image文件夹中包含万林博物馆的147张照片。最后应该算是建模
 + 图片质量也十分重要，推荐阴天拍摄，避免过曝导致细节丢失。
 + 为了追求建筑的完整性，最好在拐角处多拍几张照片用作模型的匹配衔接，避免出现第一种建模建一半的情况。
 
-于2023.3.5开源在github上
+于2023.3.6开源在github上
 
 
 
