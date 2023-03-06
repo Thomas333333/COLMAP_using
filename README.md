@@ -12,7 +12,7 @@ COLMAP地址：https://github.com/colmap/colmap/releases/download/3.8/COLMAP-3.8
 这是位于信息学部国家安全网络学院对面的一座大楼。image文件夹中共包含77张照片。最后只建模出四面墙之中的两面。
 可能原因：
 + 在拍照时用一段被树枝遮挡住了，导致在做特征匹配时无法对应并续接，于是出现中断。
-![原图](WHUbuilding/DSC_7610.JPG)
+![原图](WHUbuilding/images/DSC_7610.JPG)
 ![image1](WHUbuilding/try1.png)
 
 1. WHUbuilding2
