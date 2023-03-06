@@ -1,5 +1,6 @@
 # COLMAP_using
 COLMAP的使用——在校园内拍摄图像进行三维重建
+COLMAP地址：https://github.com/colmap/colmap/releases/download/3.8/COLMAP-3.8-windows-no-cuda.zip
 
 ## 使用COLMAP在校园内拍摄图像进行三维重建
 
